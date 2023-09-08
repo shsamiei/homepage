@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2023-01-10 15:59:00-0400
+inline: true
+---
+
+I'm excited to announce that I will be joining the Shopino family as their newest Software Engineer.
